@@ -1,0 +1,337 @@
+Listening at localhost:12345...
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 42272
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49682
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49694
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49704
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49716
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49726
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49728
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49744
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49756
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49758
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49766
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49782
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49790
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49804
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49812
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49826
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49832
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49846
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49852
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49864
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49866
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49868
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49872
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49886
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49898
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49904
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49918
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49930
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49936
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49938
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49950
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49964
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49974
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49990
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 49996
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 50006
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 50012
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 50014
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 50030
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 50044
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 50054
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 44630
+Socket family: AddressFamily.AF_INET
+Socket type: SocketKind.SOCK_STREAM
+Socket protocol: 6
+Timeout: None
+********************************************************
